@@ -11,7 +11,7 @@
   "dependencies": {
     "evilscan": "^1.7.5",
     "libnmap": "^0.4.16",
-    "local-devices": "^2.0.0",
+    "local-devices": "^3.0.0",
     "local-network-scanner": "^0.2.0",
     "network-list": "^1.1.5"
   }
